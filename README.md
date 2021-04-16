@@ -1,3 +1,4 @@
 # Astranaut-game
 It is a terminal based Astranaut game. Completely made by me.
-https://github.com/manas6699/Astranaut-game/blob/master/1D4440C5-CD59-4A53-A23648FF2C7CD0DD_source.png
+![image](https://user-images.githubusercontent.com/78929050/114993910-e438d400-9eb9-11eb-9a44-02bd6fe9ddc9.png)
+
